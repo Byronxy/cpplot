@@ -16,6 +16,5 @@ Imports:
     scales,
     tidyverse,
     utils,
-    xlsx
 URL: https://github.com/SiyuanHuang1/cpplot
 BugReports: https://github.com/SiyuanHuang1/cpplot/issues
